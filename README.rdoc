@@ -1,5 +1,8 @@
 == README
 
+Erstellt von Nadine Eter
+Beschreibung: Aufgabe 6 mit Active Record einen Bankaccount erstellt
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
